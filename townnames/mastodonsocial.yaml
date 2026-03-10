@@ -1,0 +1,30 @@
+available: false
+id: 0
+mainset:
+- names: []
+name: Mastodon.social
+source: null
+subsets:
+- name: Mastodon.social
+  parts:
+  - names:
+    - name: mastodon.social
+      probability: 1
+    - name: mastodon.green
+      probability: 1
+    - name: masto.es
+      probability: 1
+    - name: mastodon.gamedev.place
+      probability: 1
+    - name: tkz.one
+      probability: 1
+    - name: fosstodon.org
+      probability: 1
+    - name: neopaquita.es
+      probability: 1
+    - name: rebel.ar
+      probability: 1
+    - name: vivaldi.net
+      probability: 1
+    - name: tuiter.rocks
+      probability: 1
